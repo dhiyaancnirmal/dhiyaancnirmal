@@ -1,6 +1,6 @@
 # dhiyaan
 
-## projects
+## hackathons
 
 * **Otter** (CalHacks 2025 - Best Use of Sui, $2000)
     * Decentralized messaging platform on Sui.
