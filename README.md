@@ -1,6 +1,6 @@
 # dhiyaan
 
-## right now i'm working on
+## working on
 
 **Unlabel**
 
