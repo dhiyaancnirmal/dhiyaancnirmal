@@ -1,5 +1,9 @@
 # dhiyaan
 
+## right now i'm working on
+
+**Unlabel**
+
 ## hackathons
 
 * **Otter** (CalHacks 2025 - Best Use of Sui, $2000)
@@ -7,11 +11,11 @@
    
 
 * **Valor** (World Build 2 - Third Place, $1000)
-    * Collection and network for alternative price data.
+    * Collection and network for commercial pricing data.
     
 
 * **WASP** (UT Austin Productathon - Winner, $700)
-    * AI agent system for simulated user testing.
+    * AI agents for simulated user testing.
     
 
 ## interests
