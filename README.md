@@ -1,9 +1,5 @@
 # dhiyaan
 
-## working on
-
-i am interested in vibe-kanban i want to explore it further
-
 ## hackathons
 
 * **Otter** (CalHacks 2025 - Best Use of Sui, $2000)
