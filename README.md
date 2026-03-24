@@ -1,3 +1,3 @@
-dhiyaan.me
+www.dhiyaan.me
 
 im just dhiyaan
